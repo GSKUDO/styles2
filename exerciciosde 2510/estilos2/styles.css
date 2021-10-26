@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-image: url(bolo.png);
+    color: blue;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    float: none;
+}

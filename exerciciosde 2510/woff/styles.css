@@ -1,0 +1,19 @@
+@font-face {
+    font-family: '1942';
+    src: url('1942.woff');
+  }
+
+  body {
+      background-color: burlywood;
+      font-family: '1942';
+  }
+
+  #titulo {
+    color: rgb(255, 71, 71);
+    font-size: large;
+    font-weight: bolder;
+  }
+
+  #texto {
+      color: rgb(19, 18, 18);
+  }
